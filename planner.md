@@ -1,0 +1,1 @@
+insert the degree of detail bar that user can choose between 1 to 100%
